@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar{
+    padding: 15px 50px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #fff;
+    background:rgba(0,0,0,0.95);
+    border:none;
+    border-radius:0;
+    margin-bottom:0px;
+}
+
+.navbar-brand{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size:32px;
+    font-weight:bold;
+    padding-top:5px;
+    padding-bottom:0;
+}
+
+.navbar-inverse .navbar-brand{
+    margin-left:20px;
+    color:#FFF;
+}
+
+.navbar-brand small{
+    display:block;
+    font-size:14px;
+    font-style:italic;
+    margin-left:-20px;
+    padding-top:5px;
+}
+
+.navbar-inverse .nav > li > a{
+    color:#FFF;
+    font-size:14px;
+    font-weight:bold;
+}
+
+.navbar-inverse .nav > li > a:hover{
+    background-color:#159700;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    background-color:#159700;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu{
+    background-color:rgba(0,0,0,0.80);
+    opacity:2.0;
+    border: 0;
+    padding: 0;
+    border-radius: 0 0 5px 5px;
+    margin-top:15px;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li > a{
+    color:#FFF;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav .dropdown-menu > li > a:focus{
+    background-color:#159700;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin: 0;
+}
+
+.btn-default{
+    border-color: green;
+}
+
+
+#subHeader{
+    background-color: #000;
+    color: #fff;
+    font-style: italic;
+    padding-bottom: -10px;
+    padding-top: -10px;
+}

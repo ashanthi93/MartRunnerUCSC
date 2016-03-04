@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+#header1{
+
+    color: #006400;
+    font-family:cursive;
+    font-size: 28px;
+    font-style:normal;
+}
+
+#contactus{
+    color:#000;
+    font-family:monospace;
+    font-size: 26px;
+    font-style:initial;
+}
+
+.places{
+     color:#000;
+    font-family:monospace;
+    font-size: 20px;
+    font-style:initial;
+}
+
+#address{
+    color: #006400;
+    font-family:cursive;
+    font-size: 15px;
+    font-style:normal;    
+}
+
+#mail{
+    color: #0066CC;    
+}
+
+#imageid{
+    width: 500px;
+        height: 250px;
+        padding-top: 0px;
+        margin-top: 20px;
+        margin-bottom: 10px;    
+}
+
+#imagelogo{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;        
+}
+
+#imagelogo2{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;    
+}
+
+#imagelogo3{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;    
+}
+
+#imagelogo4{
+    width: 170px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 30px;    
+}
+
+#feedbackfont{    
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 5px;
+    font-style: normal;
+    font-family: monospace;
+    color: #000;
+}

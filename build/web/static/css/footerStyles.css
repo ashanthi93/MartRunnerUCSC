@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+	
+#footer {	
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  background:rgba(0,0,0,0.95);
+}
+
+#footer a {
+  color: #fff;
+}
+
+#footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+#footer-menu{
+	list-style:none;
+	}
+	
+#footer-menu li{
+	padding-top:20px;
+	text-align:left;
+	}
+	
+#footer-menu li > a:hover,
+#footer-menu li >a:focus{
+	text-decoration:none;
+	color:#799B12;
+	}
+	
+#subscribe{
+	text-align:right;
+	}
+
+#subscribe-btn{
+	background-color:#799B12;
+	}
+	
+#email-subscribe{
+	font-style:italic;
+	}
+	
+#email-id a:hover,
+#email-id a:focus{
+	color:#799B12;
+	text-decoration:none;
+	}
+
+.social-icons{
+	font-size:46px;
+	text-align:right;
+	}
+	
+.social-icons > li > a > i{
+	color:#5C7510;
+	border-radius:0;
+	border-style:none;
+	}

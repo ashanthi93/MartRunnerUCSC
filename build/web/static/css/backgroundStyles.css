@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*body{
+	background-image:
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}*/
+	
+#about-content{
+	background-color:rgba(0,0,0,0.1);
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	border-color:rgba(0,0,0,0.2);
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;
+	}
+	
+.panel-body{
+	font-size:20px;
+	font-weight:normal;
+	}
+	
+.panel-heading{
+	background-color:rgba(0,0,0,0.90);
+	opacity:2.0;
+	}
+	
+.panel-heading > h1 {
+	font-size:32px;
+	font-weight:bolder;
+	color:#37AE0B;
+	}
+
+#about-main{
+	font-size:32px;
+	text-align:center;
+	font-style:oblique;
+	margin-top: 30px;
+	}
+	
+#about-marquee{
+	font-size:24px;
+	color:#1C0374;
+	font-style:italic;
+	font-weight:bolder;	
+	}

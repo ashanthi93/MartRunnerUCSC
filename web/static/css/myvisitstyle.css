@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+	
+#d1{
+	float:left;
+	width:300px;
+	left:100px;	
+	}
+	
+#left_side{
+	background:#FFF;
+	color:#000;
+	}
+	
+#view_stall_map{
+		float:right;
+		pading:20px;
+		
+					}
+			
+#Find_location{
+	color:#009;
+	}
+	
+a{
+	color:#009;	
+	}
