@@ -12,9 +12,9 @@ import javax.mail.internet.MimeMessage;
 public class Email {
 
     /* Email Attributes */
-    final String username = "martrunnertest@gmail.com";
-    final String password = "mart1234";
-    final String sender = "martrunnertest@gmail.com";
+    final String username = "";
+    final String password = "";
+    final String sender = "";
 
     /* method to send email with login details to new user */
     public boolean sendLoginDetails(String reciever, String userID, String userPassword) {
